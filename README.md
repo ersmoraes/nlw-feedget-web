@@ -1,4 +1,4 @@
-![App Screenshot](.github/cover.png)
+![App Screenshot](src/assets/cover.png)
 
 Feedback Widget é uma aplicação que foi desenvolvida durante o evento NLW proposto pela rocketseat.
 
